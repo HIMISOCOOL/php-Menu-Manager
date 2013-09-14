@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menus>
+    <item>
+        <label>Home</label>
+        <link>index.php</link>
+        <isDropdown>FALSE</isDropdown>
+        <ddItems>NULL</ddItems>
+    </item>
+    <item>
+        <label>This page</label>
+        <link>thispage.php</link>
+        <isDropdown>FALSE</isDropdown>
+        <ddItems>NULL</ddItems>
+    </item>
+    <item>
+        <label>Other pages</label>
+        <link>#</link>
+        <isDropdown>TRUE</isDropdown>
+        <ddItems>
+            <item>
+                <label>That page</label>
+                <link>thatpage.php</link>
+                <isDropdown>FALSE</isDropdown>
+                <ddItems>NULL</ddItems>
+            </item>
+            <item>
+                <label>Cunts</label>
+                <link>cunts.php</link>
+                <isDropdown>FALSE</isDropdown>
+                <ddItems>NULL</ddItems>
+            </item>
+        </ddItems>
+    </item>
+</menus>
