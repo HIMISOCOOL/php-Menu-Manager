@@ -28,8 +28,8 @@ state that it is a menu
 	                <ddItems>NULL</ddItems>//So make sure a child is always FALSE and NULL
 	            </item>
 	            <item>
-	                <label>Cunts</label>
-	                <link>cunts.php</link>
+	                <label>Another</label>
+	                <link>another.php</link>
 	                <isDropdown>FALSE</isDropdown>
 	                <ddItems>NULL</ddItems>
 	            </item>

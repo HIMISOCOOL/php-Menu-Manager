@@ -16,9 +16,9 @@
             <div class="content col-8">
                 <article>
                     Now you're gonna tell me that this is not THIS page, Look its even capitalized;
-                    It must be super fucking important if thats the case; 
+                    It must be super important if thats the case; 
                     Can't just go around saying it's not THAT page now can you.
-                    Dick head
+                    <br/>Good day sir
                 </article>
             </div>
         </div>
